@@ -8,3 +8,9 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [1.0.1]
 - Update Banner Theme
+
+## [1.0.2]
+- Update Banner Theme
+
+## [1.0.3]
+- Update Banner Theme
