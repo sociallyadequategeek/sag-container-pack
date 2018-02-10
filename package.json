@@ -1,0 +1,41 @@
+{
+    "name": "sag-container-pack",
+    "displayName": "SAG Container Dev Pack",
+    "description": "A collection of essential container development extensions for VS Code productivity and bliss.",
+    "version": "1.0.0",
+    "publisher": "SociallyAdequateGeek",
+    "engines": {
+        "vscode": "^1.20.0"
+    },
+    "icon": "vscode-inabox.png",
+    "galleryBanner": {
+        "color": "#fafafa",
+        "theme": "dark"
+    },
+    "keywords": [
+        "docker",
+        "helm",
+        "draft",
+        "k8s",
+        "kubernetes",
+        "YAML"
+    ],
+    "categories": [
+        "Extension Packs"
+    ],
+    "repository": {
+        "url": "https://github.com/SociallyAdequateGeek/sag-container-pack"
+    },
+    "homepage": "https://github.com/SociallyAdequateGeek/sag-container-pack",
+    "bugs": {
+        "url": "https://github.com/SociallyAdequateGeek/sag-container-pack/issues"
+    },
+    "extensionDependencies": [ 
+        "ms-kubernetes-tools.vscode-kubernetes-tools",
+        "PeterJausovec.vscode-docker",
+        "formulahendry.docker-explorer",
+        "ipedrazas.kubernetes-snippets",
+        "dudash.openshift-vscode-extension",
+        "redhat.vscode-yaml"
+    ]
+}
