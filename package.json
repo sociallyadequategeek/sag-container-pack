@@ -2,14 +2,14 @@
     "name": "sag-container-pack",
     "displayName": "SAG Container Dev Pack",
     "description": "A collection of essential container development extensions for VS Code productivity and bliss.",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "publisher": "SociallyAdequateGeek",
     "engines": {
         "vscode": "^1.20.0"
     },
     "icon": "vscode-inabox.png",
     "galleryBanner": {
-        "color": "#fafafa",
+        "color": "#333333",
         "theme": "dark"
     },
     "keywords": [
